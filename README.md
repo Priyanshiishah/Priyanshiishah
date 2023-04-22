@@ -26,13 +26,13 @@ Besides this, I am a skilled professional who can work alone or with a team whil
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=R)
 ![Confluence](https://img.shields.io/badge/-Confluence-F7CC41?style=flat-square&logo=Confluence)
-![PHP](https://img.shields.io/badge/-PHP-F7CC41?style=flat-square&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![CSS](https://img.shields.io/badge/-CSS-F7CC41?style=flat-square&logo=CSS)
-![Power Apps](https://img.shields.io/badge/-Power_Apps-F7CC41?style=flat-square&logo=PowerApps)
-![Alteryx](https://img.shields.io/badge/-Alteryx-F7CC41?style=flat-square&logo=Alteryx)
+![Power Apps](https://img.shields.io/badge/-Power_Apps-black?style=flat-square&logo=PowerApps)
+![Alteryx](https://img.shields.io/badge/-Alteryx-00599C?style=flat-square&logo=Alteryx)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-F7CC41?style=flat-square&logo=GoogleAnalytics)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F7CC41?style=flat-square&logo=JupyterNotebook)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F7CC41?style=flat-square&logo=Google-Colab) 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-00599C?style=flat-square&logo=JupyterNotebook)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=Google-Colab) 
 
 
 
