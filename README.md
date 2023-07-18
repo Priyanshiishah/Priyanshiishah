@@ -1,14 +1,17 @@
 Hi 👋 My name is Priyanshi Shah
 ================================
+I am a passionate Data Scientist with 2+ years of hands-on experience utilizing advanced analytics techniques to unlock valuable insights and drive strategic decision-making. My expertise lies in applying statistical modeling, ML algorithms, and data visualization tools to solve complex business challenges.
 
-I am a strong performance-driven software developer pursuing a master’s degree in computer science. I am passionate about Machine Learning which includes CNN-LSTM architecture and Pattern Recognition. I worked as an Application Developer at Dhyey Consulting Services Pvt. Ltd. on technologies like Microsoft PowerApps using JavaScript, HTML, and CSS. I also have experience as Python Developer Intern where I created an e-commerce website using Python programming and the Django framework. I appreciate taking on challenges and working on tasks that push me outside of my comfort zone and area of expertise since I believe it is crucial to be learning new growth strategies and abilities. Highly skilled in languages with proficiency in Java, Python (NumPy, Pandas, Matplotlib, Sklearn, Seaborn), JavaScript, SQL, HTML, CSS, and PHP.
-Besides this, I am a skilled professional who can work alone or with a team while adhering to a schedule. I am also a good team member, an effective problem solver, a leader, and a professional. I can assess the situation well and offer innovative solutions. Always open to working in an environment that is healthy and evolving.
+Throughout my career, I have effectively collaborated with cross-functional teams to identify opportunities, design experiments, collect and analyze large datasets, and develop accurate and robust predictive models. With a deep understanding of data exploration, feature engineering, and model selection, I continuously stay updated on the latest advancements and industry trends.
+
+As a curious and passionate data scientist, I excel at translating complex data-driven insights into actionable recommendations for stakeholders at all levels, enabling informed decisions that positively impact business performance.
 
 * 🌍  I'm based in Los Angeles, CA
 * 🧠  I'm learning Natural Language Processing
 * 🔭  I'm currently working on Face Recognition using YOLO and Face Net Model
 * 🌱  I'm currently learning Tableau
 * 🤝  I'm open to collaborating on any interesting or challenging task
+* 📫 Reach me - shah.priyanshii28@gmail.com
 
 
 ## 🔧 Skills
