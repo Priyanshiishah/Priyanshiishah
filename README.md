@@ -22,20 +22,20 @@ I’m passionate about using data to uncover hidden opportunities, optimize oper
 
 ## 🔧 Skills
 
-![Power BI](https://img.shields.io/badge/-Power BI-EC2025?style=flat-square&logo=PowerBI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F7CC41?style=flat-square&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![Tableau](https://img.shields.io/badge/-Tableau-F80000?style=flat-square&logo=Tableau)
+![Power BI Icon](path/to/your/icon.svg)
+![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=R)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
-![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=R)
-![Confluence](https://img.shields.io/badge/-Confluence-F7CC41?style=flat-square&logo=Confluence)
 ![Power Apps](https://img.shields.io/badge/-Power_Apps-black?style=flat-square&logo=PowerApps)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-00599C?style=flat-square&logo=Alteryx)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-F7CC41?style=flat-square&logo=GoogleAnalytics)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-00599C?style=flat-square&logo=JupyterNotebook)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=Google-Colab) 
+![Confluence](https://img.shields.io/badge/-Confluence-F7CC41?style=flat-square&logo=Confluence)
 
 
 
