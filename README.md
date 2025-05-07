@@ -25,7 +25,7 @@ I’m passionate about using data to uncover hidden opportunities, optimize oper
 ![Python](https://img.shields.io/badge/-Python-F7CC41?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![Tableau](https://img.shields.io/badge/-Tableau-F80000?style=flat-square&logo=Tableau)
-![Power BI Icon](path/to/your/icon.svg)
+![Power BI](https://img.shields.io/badge/-Power_BI-F7CC41?style=flat-square&logo=PowerBI)
 ![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=R)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
