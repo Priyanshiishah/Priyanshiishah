@@ -1,18 +1,24 @@
 Hi 👋 My name is Priyanshi Shah
 ================================
-I am a passionate Data Scientist with 2+ years of hands-on experience utilizing advanced analytics techniques to unlock valuable insights and drive strategic decision-making. My expertise lies in applying statistical modeling, ML algorithms, and data visualization tools to solve complex business challenges.
 
-Throughout my career, I have effectively collaborated with cross-functional teams to identify opportunities, design experiments, collect and analyze large datasets, and develop accurate and robust predictive models. With a deep understanding of data exploration, feature engineering, and model selection, I continuously stay updated on the latest advancements and industry trends.
+I'm a Senior Data & Product Analyst with 3+ years of experience helping businesses unlock the full power of their data.
 
-As a curious and passionate data scientist, I excel at translating complex data-driven insights into actionable recommendations for stakeholders at all levels, enabling informed decisions that positively impact business performance.
+Over the past few years, I've partnered with cross-functional teams across marketing, sales, operations, and product to deliver insights that drive strategic decisions, optimize processes, and fuel business growth.
 
-* 🌍  I'm based in Los Angeles, CA
-* 🧠  I'm learning Natural Language Processing
-* 🔭  I'm currently working on Face Recognition using YOLO and Face Net Model
-* 🌱  I'm currently learning Tableau
-* 🤝  I'm open to collaborating on any interesting or challenging task
-* 📫 Reach me - shah.priyanshii28@gmail.com
+From building dynamic dashboards and automating reporting pipelines to leading ad-hoc deep dives that surface new opportunities, my approach is grounded in turning complex data into compelling, actionable narratives.
 
+🔎 What I bring to the table:
+- Advanced analytics expertise: SQL, Python (Pandas, NumPy, Scikit-learn), R, Tableau, Power BI, Excel
+- Data engineering basics: ETL pipeline design, data cleaning & transformation, data modeling
+- Business storytelling: Translating data trends into executive-ready insights that inform strategy
+- Cross-team collaboration: Working closely with product, marketing, and leadership teams to align analytics to business goals
+- Continuous learning: Staying ahead of emerging trends in data science, business intelligence, and visualization
+
+I’m passionate about using data to uncover hidden opportunities, optimize operations, and deliver measurable business value, not just insights for the sake of reporting.
+
+🌟 I'm open to opportunities as a Data Analyst | Business Analyst | Product Analyst | Business Intelligence Developer | Market Research Analyst, especially roles focused on innovation, impact, and growth.
+
+💬 Feel free to connect if you're looking for someone to bridge the gap between data and strategy and help your organization make smarter, faster, and more confident decisions!
 
 ## 🔧 Skills
 
