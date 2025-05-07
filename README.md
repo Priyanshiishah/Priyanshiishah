@@ -22,21 +22,15 @@ I’m passionate about using data to uncover hidden opportunities, optimize oper
 
 ## 🔧 Skills
 
-![Java](https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power BI-EC2025?style=flat-square&logo=PowerBI&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F7CC41?style=flat-square&logo=Python)
 ![Tableau](https://img.shields.io/badge/-Tableau-F80000?style=flat-square&logo=Tableau)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=R)
 ![Confluence](https://img.shields.io/badge/-Confluence-F7CC41?style=flat-square&logo=Confluence)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![CSS](https://img.shields.io/badge/-CSS-F7CC41?style=flat-square&logo=CSS)
 ![Power Apps](https://img.shields.io/badge/-Power_Apps-black?style=flat-square&logo=PowerApps)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-00599C?style=flat-square&logo=Alteryx)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-F7CC41?style=flat-square&logo=GoogleAnalytics)
