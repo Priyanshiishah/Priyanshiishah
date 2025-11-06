@@ -1,59 +1,59 @@
 Hi 👋 My name is Priyanshi Shah
 ================================
 
-I'm a Senior Data & Product Analyst with 3+ years of experience helping businesses unlock the full power of their data.
+I’m an experienced Software Engineer at Nestlé USA, where I design and scale distributed systems that drive product insights, catalog accuracy, and AI-powered forecasting across the Amazon eCommerce ecosystem. With 3+ years of experience spanning software engineering, data platforms, and applied AI, I build systems that bridge data reliability, cloud automation, and business impact. My focus lies in transforming raw data into intelligent, actionable systems that empower business decisions at scale.
 
-Over the past few years, I've partnered with cross-functional teams across marketing, sales, operations, and product to deliver insights that drive strategic decisions, optimize processes, and fuel business growth.
+🧠 **What I Work On:**
 
-From building dynamic dashboards and automating reporting pipelines to leading ad-hoc deep dives that surface new opportunities, my approach is grounded in turning complex data into compelling, actionable narratives.
+- Architecting serverless microservices and data ingestion APIs on AWS & Azure
+- Building LLM-powered forecasting and analytics pipelines for eCommerce insights
+- Designing scalable ETL workflows and distributed AI services for large-scale data (20 TB+)
+- Implementing observability and monitoring systems to ensure reliability and performance
 
-🔎 What I bring to the table:
-- Advanced analytics expertise: SQL, Python (Pandas, NumPy, Scikit-learn), R, Tableau, Power BI, Excel
-- Data engineering basics: ETL pipeline design, data cleaning & transformation, data modeling
-- Business storytelling: Translating data trends into executive-ready insights that inform strategy
-- Cross-team collaboration: Working closely with product, marketing, and leadership teams to align analytics to business goals
-- Continuous learning: Staying ahead of emerging trends in data science, business intelligence, and visualization
+🚀 **What Drives Me:**
 
-I’m passionate about using data to uncover hidden opportunities, optimize operations, and deliver measurable business value, not just insights for the sake of reporting.
-
-🌟 I'm open to opportunities as a Data Analyst | Business Analyst | Product Analyst | Business Intelligence Developer | Market Research Analyst, especially roles focused on innovation, impact, and growth.
+I’m passionate about scaling intelligent systems that transform data into action — optimizing performance, automating decisions, and empowering teams to move faster with confidence.
 
 💬 Feel free to connect if you're looking for someone to bridge the gap between data and strategy and help your organization make smarter, faster, and more confident decisions!
 
+
 ## 🔧 Skills
 
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-F7F7F7?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F7CC41?style=flat-square&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
-![Tableau](https://img.shields.io/badge/-Tableau-F80000?style=flat-square&logo=Tableau)
-![Power BI](https://img.shields.io/badge/-Power_BI-F7CC41?style=flat-square&logo=PowerBI)
-![R](https://img.shields.io/badge/-R-00599C?style=flat-square&logo=R)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DE0B08?style=flat-square&logo=angular)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Power Apps](https://img.shields.io/badge/-Power_Apps-black?style=flat-square&logo=PowerApps)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Alteryx](https://img.shields.io/badge/-Alteryx-00599C?style=flat-square&logo=Alteryx)
-![Google Analytics](https://img.shields.io/badge/-Google_Analytics-F7CC41?style=flat-square&logo=GoogleAnalytics)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-00599C?style=flat-square&logo=JupyterNotebook)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=Google-Colab) 
-![Confluence](https://img.shields.io/badge/-Confluence-F7CC41?style=flat-square&logo=Confluence)
+![Flutter](https://img.shields.io/badge/-Flutter-00599C?style=flat-square&logo=flutter)
 
+<!-- ## Socials
 
-
-
-
-
-
+<p align="left"> <a href="https://www.github.com/bhalavat-nisarg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+ -->
 ## &#x1f4c8; Github Stats
+
+<a href="http://www.github.com/priyanshiishah"><img src="https://github-readme-stats.vercel.app/api?username=priyanshiishah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="priyanshiishah's GitHub stats" /></a>
+
+<a href="http://www.github.com/priyanshiishah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshiishah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/priyanshiishah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiishah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiishah&langs_count=5&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=priyanshiishah&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&line_height=30)
+ -->
 <!--
-<a href="http://www.github.com/Priyanshiishah"><img src="https://github-readme-stats.vercel.app/api?username=Priyanshiishah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Priyanshiishah's GitHub stats" /></a>
--->
-
-<a href="http://www.github.com/Priyanshiishah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshiishah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Priyanshiishah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshiishah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!--
-**Priyanshiishah/Priyanshiishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -66,3 +66,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
